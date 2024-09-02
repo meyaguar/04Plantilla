@@ -6,7 +6,7 @@ Esta tarea consiste en la implementación de los procedimientos necesarios para 
 
 ## Instrucciones de la Actividad
 
-1. **Edición de Angular.SON**:
+1. **Edición de Angular.JSON**:
    - Se agregó la librería `sweetalert2` en `allowedCommonJsDependencies` para manejar las alertas de confirmación en las operaciones de actualización y elimina``ción.
 
    ```json
